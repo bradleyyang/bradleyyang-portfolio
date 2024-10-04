@@ -376,7 +376,6 @@ function App() {
               Contact
             </h1>
           </div>
-          <ContactForm />
           
 
 
